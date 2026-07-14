@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppGroupIdentifier</key>
+	<string>group.com.example.proxyclient</string>
+	<key>Notes</key>
+	<string>Copy values into real entitlements; do not commit production Team secrets.</string>
+</dict>
+</plist>
