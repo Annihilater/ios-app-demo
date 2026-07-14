@@ -1,0 +1,44 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# SwiftPM
+.build/
+.swiftpm/
+Package.resolved
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Secrets / local env
+.env
+.env.*
+*.p12
+*.mobileprovision
+Configs/Secrets.local.xcconfig
+Configs/Local.xcconfig
+
+# IDE / agents
+.idea/
+.vscode/
+.claude/
+.ccb/
+*.swp
+*~
+
+# Logs & temp
+logs/
+tmp/
+*.log
