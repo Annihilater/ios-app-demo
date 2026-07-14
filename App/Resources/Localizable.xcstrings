@@ -1,0 +1,11 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Home" : {},
+    "Nodes" : {},
+    "Rules" : {},
+    "Logs" : {},
+    "Settings" : {}
+  },
+  "version" : "1.0"
+}
