@@ -39,6 +39,6 @@ Configs/Local.xcconfig
 *~
 
 # Logs & temp
-logs/
+/logs/
 tmp/
 *.log
